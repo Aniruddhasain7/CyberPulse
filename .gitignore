@@ -101,7 +101,5 @@ desktop.ini
 *.log
 .idea/
 
-# VS Code (preserve shared settings/extensions, ignore local state)
-.vscode/*
-!.vscode/settings.json
-!.vscode/extensions.json
+# VS Code
+.vscode/
