@@ -1,0 +1,13 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/backend",
+        "C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages",
+        "C:\\Users\\User\\AppData\\Roaming\\Python\\Python311\\site-packages"
+    ],
+    "python.autoComplete.extraPaths": [
+        "${workspaceFolder}/backend",
+        "C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages",
+        "C:\\Users\\User\\AppData\\Roaming\\Python\\Python311\\site-packages"
+    ]
+}
